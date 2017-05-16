@@ -1,0 +1,2 @@
+potentiometer1 (a0) kuning
+potentiometer2 (a11) coklat
